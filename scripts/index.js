@@ -1,1 +1,1 @@
-console.log('Hello World, this is Ilori Stephen A with HNGi7 ID HNG-3564 using PHP for stage 2 task')
+console.log('Hello World, this is Vincent Chinedu Chukwu with HNGi7 ID HNG-00544 using Javascript for stage 2 task')
